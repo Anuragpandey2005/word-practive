@@ -1,5 +1,5 @@
 import streamlit as st
-import fitz  # PyMuPDF
+import pymupdf as fitz
 import easyocr
 from PIL import Image, ImageDraw
 import numpy as np
